@@ -1,16 +1,7 @@
-# crypto
+# crypto_currency
+یک برنامه قیمت ارز که از api فیک استفاده میکند
 
-A new Flutter project.
+a crypto currency app which made with flutter and use fake api
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![preview](https://github.com/Terminatorking/crypto_currency/assets/107791627/853cd4ce-2e94-4d95-86e5-fb2d439fc092)
